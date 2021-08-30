@@ -11,7 +11,7 @@ for i in range(1,len(a)):
         idx-=1
     a[idx]=value
     #print(a)
-
+    
 print(a)
 
 # Time Complexity : Avg & Worst Case ==> O(n^2)
